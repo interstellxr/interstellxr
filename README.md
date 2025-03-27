@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Huckleberry and I'm currently doing my Master's in astrophysics at EPFL.</h2>
+<h2 align="left">Hi👋! My name is Huckleberry and I'm currently doing my Master's in astrophysics at EPFL. I'm mostly interested in exoplanetology and the search for life in space. </h2>
 
 ###
 
